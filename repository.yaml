@@ -1,7 +1,7 @@
 openapi: "3.0.1"
 info:
   title: "Repository API"
-  version: "2021-07-11T00:11:22Z"
+  version: "2021-07-11T02:12:56Z"
 servers:
 - url: "https://api.opalpolicy.com/{basePath}"
   variables:
